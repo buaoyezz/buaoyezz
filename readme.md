@@ -9,9 +9,10 @@
 ## <div align="center">👨‍💻 关于我</div>
 
 <div class="neumorphism-card" align="center">
-  <p>我是一名热爱技术的开发者，专注于 [您的专业领域]。</p>
-  <p>目前就读于/就职于 [您的学校/公司]，致力于 [您的研究/工作方向]。</p>
-  <p>我相信技术可以改变世界，并且一直在探索创新的解决方案。</p>
+  <p>你好我是ZZBUAOYE</p>
+  <p>欢迎观赏我的主页</p>
+  <p>若是喜欢我的项目就请点Star吧！</p>
+  <p>但是若是不喜欢，也请合理的友好提出</p>
 </div>
 
 ## <div align="center">🛠️ 技术栈</div>
@@ -24,7 +25,6 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <!-- 根据您的技术栈添加或修改 -->
 </div>
 
 ## <div align="center">📊 GitHub 统计</div>
@@ -36,42 +36,49 @@
 
 ## <div align="center">🏆 项目展示</div>
 
-<div class="project-container">
+<div class="project-container" align="center">
+  <p>我在GitHub上有多个开源项目，涵盖UI框架、笔记工具、实用程序等多个领域</p>
+  <p>以下是我的部分代表性项目：</p>
+  
   <div class="project-card">
-    <h3>项目一</h3>
-    <p>项目描述：这是一个关于...的项目</p>
-    <p>技术栈：React, Node.js, MongoDB</p>
-    <a href="项目链接">查看项目</a>
+    <h3>PyQt-ClutUI</h3>
+    <p>项目描述：一个基于PyQt5的现代化UI框架，提供美观的界面组件和简洁的开发体验</p>
+    <p>技术栈：Python, PyQt5</p>
+    <a href="https://github.com/buaoyezz/PyQt-ClutUI">查看项目</a>
   </div>
   
   <div class="project-card">
-    <h3>项目二</h3>
-    <p>项目描述：这是一个关于...的项目</p>
-    <p>技术栈：Python, Django, PostgreSQL</p>
-    <a href="项目链接">查看项目</a>
+    <h3>Hanabi Notes</h3>
+    <p>项目描述：功能丰富的笔记本</p>
+    <p>技术栈：Python</p>
+    <a href="https://github.com/buaoyezz/Hanabi_Notes">查看项目</a>
   </div>
   
   <div class="project-card">
-    <h3>项目三</h3>
-    <p>项目描述：这是一个关于...的项目</p>
-    <p>技术栈：Vue.js, Express, MySQL</p>
-    <a href="项目链接">查看项目</a>
+    <h3>ClutUI-Nextgen</h3>
+    <p>项目描述：ClutUI的下一代版本，提供更强大的UI组件和更流畅的用户体验</p>
+    <p>技术栈：Python</p>
+    <a href="https://github.com/buaoyezz/ClutUI-Nextgen">查看项目</a>
   </div>
+  
+  <p><a href="./projects.md"><strong>👉 查看我的完整项目列表</strong></a></p>
 </div>
 
 ## <div align="center">📫 联系我</div>
 
 <div align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:buaoyezz@buaa.edu.cn">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/buaoyezz">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourhandle">
+  <a href="https://twitter.com/buaoyezz">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+了  </a>
+  <a href="https://space.bilibili.com/buaoyezz">
+    <img src="https://img.shields.io/badge/-Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" />
   </a>
-  <!-- 添加您的其他社交媒体 -->
 </div>
 
 <div align="center">
