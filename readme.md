@@ -2,13 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=✨+Hello,+I+AM+ZZBUAOYE+✨&font=Dancing+Script&center=true&width=380&height=50&color=9370DB&vCenter=true&size=28&background=FFFFFF00">
 </div>
 
-## <div align="center">👨‍💻 关于我</div>
+## <div align="center">Hey There</div>
 
 <div align="center">
-  <p>你好我是ZZBUAOYE</p>
-  <p>欢迎观赏我的主页</p>
-  <p>若是喜欢我的项目就请点Star吧！</p>
-  <p>但是若是不喜欢，也请合理的友好提出</p>
+  <p>I AM ZZBUAOYE</p>
+  <p>WELCOME</p>
+  <pIf you like my project, remember to give me a star.</p>
 </div>
 
 ## <div align="center">🛠️ 技术栈</div>
